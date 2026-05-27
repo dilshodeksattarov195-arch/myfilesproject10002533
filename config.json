@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfncrypt",
+        "uuid": 9858436,
+        "checksum": "2r49et"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
